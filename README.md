@@ -14,4 +14,4 @@ IELTS
 
 ## Contact:
 email: kjooho7@naver.com \
-github: https://github.com/kjooho7
+github: (https://github.com/kjooho7)
