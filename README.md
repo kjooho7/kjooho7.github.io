@@ -1,4 +1,4 @@
-# kjooho7.github.io
+# Jooho Kim
 
 ## Introduction:
 I am Jooho Kim, a bachelor course student at SKKU majoring in computer science and engineering.
