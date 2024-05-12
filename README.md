@@ -13,5 +13,5 @@ I am in my bachelor's course in computer science and engineering at SKKU.
 IELTS
 
 ## Contact:
-email: kjooho7@naver.com
-github: github.com/kjooho7
+email: kjooho7@naver.com \
+github: https://github.com/kjooho7
