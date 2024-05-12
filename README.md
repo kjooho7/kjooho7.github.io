@@ -10,7 +10,7 @@ I have learned C language, C++, JAVA, and Python. I worked on a project using JA
 I am in my bachelor's course in computer science and engineering at SKKU.
 
 ## Achievements and Certifications:
-IELTS \
+IELTS
 
 ## Contact:
 email: kjooho7@naver.com \
